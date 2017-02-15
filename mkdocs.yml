@@ -1,0 +1,30 @@
+site_name:  template  Docs
+site_url: https://docs.template.com
+site_description: Project documentation for  template
+
+repo_url : https://github.com/objectedge/template_docs
+
+pages:
+  - Home:
+    - What is  template ?: index.md
+    - How  template  Works?: how_template_works.md
+  - User Guide:
+    - Getting Started: getting_started.md
+    - Organization Account Setup: organization_account_setup.md
+    - Catalog Purchase Feed: catalog_purchase_feed.md
+    - API docs: api.md
+  - About:
+    - Release Notes: about/release_notes.md
+
+extra_javascript:
+    - js/extra.js
+    - js/iframeResizer.min.js
+
+extra_css:
+    - css/extra.css
+
+theme: readthedocs
+
+copyright:
+  2017 &copy;  template  <a href="/about/release_notes/#release-notes">Release Notes</a>, Maintained by the <a href="/about/release_notes/#maintenance-team"> template  Team</a>.
+google_analytics: ['GA_CODE', 'docs.template.com']

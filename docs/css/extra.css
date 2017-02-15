@@ -1,0 +1,16 @@
+div.section h1:first-of-type {
+  text-align: center;
+}
+
+div.section h2:first-of-type {
+  text-align: center;
+}
+
+div.section iframe:first-of-type {
+  width: 100%;
+  min-height: 600px;
+}
+
+div.wy-nav-content {
+  min-width:80%;
+}
