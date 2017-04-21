@@ -4,9 +4,9 @@
 
 ## Maintenance team
 
-The current and past members of the Beveel Docs team.
+The current and past members of the Template Docs team.
 
-* [Naren Ramachandra](mailto:naren@objectedge.com)
+* [Samriti Kanwar](mailto:samriti.kanwar@objectedge.com)
 * [Anand Raju](mailto:anand.raju@objectedge.com)
 
 
